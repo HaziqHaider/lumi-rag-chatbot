@@ -43,8 +43,6 @@ pip install -r requirements.txt
 2. Execute the following command:
 
 ```
-python sample_ingestion.py
-python sample_retrieval.py
 python ingestion.py
 python retrieval.py
 streamlit run chatbot_rag.py
