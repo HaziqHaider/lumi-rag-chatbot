@@ -2,9 +2,7 @@
 <h2>Installation</h2>
 1. Clone the repository:
 
-```
-git clone https://github.com/ThomasJanssen-tech/LangChain-Pinecone-RAG.git
-cd LangChain Pinecone RAG
+
 ```
 
 2. Create a virtual environment
